@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/NavigationLeft_SelectionSubpicture.png</file>
+        <file>Images/NavigationRight_SelectionSubpicture.png</file>
+        <file>Images/Image.png</file>
+        <file>Images/Image_2.png</file>
+    </qresource>
+</RCC>
